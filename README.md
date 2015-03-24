@@ -13,7 +13,7 @@ May be I try to write some train models for styling the authors with words or se
   Java, The OpenNLP
 
 #####Steps for Done
-1. Collect training set contains 15 and test set contains 5 different texts for each of some authors.
-2. Style marker has been processed for every text of the authors and by having the average of these 15 articles we could collect style markers per author.
+1. All training set contains 10 different texts for each of some authors.
+2. Style marker has been processed for every text of the authors and by having the average of these 10 articles we could collect style markers per author.
 3. Creating a word database.The word database module is in the matrix form and in first column there is the word itself, in the second, third and fourth columns there are the grammatical types of the word.
 4. As expressed in the word database module each word may have maximum of 3 grammatical types. The system automatically detects the type by implementing the grammatical rules on the sentence.
