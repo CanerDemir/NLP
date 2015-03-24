@@ -10,7 +10,7 @@ There is an article about author detection [here](http://www.google.com.tr/url?s
 #####A way to do:
 May be I try to write some train models for styling the authors with words or sentences. And then using these models to finding the author of given texts. 
 #####Project Requirements:
-  Java, The NLTK Library
+  Java, The OpnNLP
 
 #####Steps for Done
 1. Training set contains 15 and test set contains 5 different texts for each of some authors.
