@@ -17,6 +17,6 @@ May be I try to write some train models for styling the authors with words or se
 2. Counting words in given texts about authors.(+)
 3. Using number of words to create clusters.(-)
 4. Pointing the centroid of each clusters.(-)
-5. Test some given texts.(-)
+5. Test some given texts.(-)  
    *(+) means the work is done.*  
    *(-) means the work not is done yet.*
