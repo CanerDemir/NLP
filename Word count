@@ -2,12 +2,12 @@
 use strict;
 use warnings;
 use utf8;
-my $filename = "any.txt";
+my $filename = "anytext.txt";
 unless ( open(FILE, $filename) ) {
     print "Cannot open file \"$filename\"\n\n";
     exit;
 }
- open Output, '>', 'any.txt' or die "Could not open 'any.txt' $!";
+ open Output, '>', 'anytext.txt' or die "Could not open 'anytext.txt' $!";
 my %count;
 
 open(my $fh, "<", $filename)
